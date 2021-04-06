@@ -55,10 +55,10 @@ console.log(x)
 // TBD
 
 
-function addNums = function (x, y) {
+/* function addNums = function (x, y) {
     let result = x = y;
     return result
-}
+} */
 
 let mystuff = addNums(5,6) // let mystuff = 11 <<-- inside memory location
 
