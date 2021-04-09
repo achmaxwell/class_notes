@@ -1,0 +1,16 @@
+body {
+background-color: #9dadac;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */ 
+}
+
+#mainTextContainer {
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 2%;
+}
+
+.cardImg {
+    height: 300px;
+    object-fit: cover;
+}
